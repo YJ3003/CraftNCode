@@ -31,3 +31,8 @@ Make sure you have the following installed:
 - scikit-learn (`pip install scikit-learn`)
 - pandas (`pip install pandas`)
 - numpy (`pip install numpy`)
+
+### Usage
+
+After installing everything, just run `streamlit run Website.py` and the website should open.
+
